@@ -128,10 +128,8 @@ traversing external firewall controls.
 
 ### Network Diagram
 
-```
+![Zaphod Bank Lab Architecture](zaphodarch.png)
 
-TBA
-```
 
 ### Host Resource Allocation
 
