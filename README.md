@@ -9,6 +9,10 @@
 > portfolio purposes. Any resemblance to real companies 
 > is coincidental.
 
+> This project is actively in progress. 
+> New scenarios, detection rules, and incident 
+> reports are added as the lab develops.
+
 ---
 
 ## Overview
