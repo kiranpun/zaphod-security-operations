@@ -60,10 +60,4 @@ networking to reflect realistic internal network conditions.
 Full architecture documentation, network diagram, and component 
 decisions are available in [architecture/environment.md](architecture/environment.md).
 
-**Sources:**
-- Verizon Data Breach Investigations Report 2025 -- 
-  Financial Services Snapshot
-- The Guardian (2024) -- Hong Kong deepfake video conference 
-  scam: https://www.theguardian.com/world/2024/feb/05/hong-kong-company-deepfake-video-conference-call-scam
 
----
