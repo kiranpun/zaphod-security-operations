@@ -30,7 +30,7 @@ actually faces and how to detect it, grounded in industry threat
 intelligence and real world reported incidents.
 
 ## About Zaphod Bank
-Zaphod Bank is a fictional mid-sized UK mobile banking platform 
+Zaphod Bank is a fictional mid-sized UK web banking platform 
 serving as the basis for this engagement. The threat model covers 
 Zaphod's regulatory obligations under FCA, GDPR, PCI-DSS and DORA, 
 attack vectors identified from the Verizon 2025 DBIR financial 
